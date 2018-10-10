@@ -24,15 +24,25 @@
 		</Item>
 		<Item Name="Context" Type="Folder">
 			<Item Name="Context.lvclass" Type="LVClass" URL="../Context/Context.lvclass"/>
+			<Item Name="ContextData.lvclass" Type="LVClass" URL="../ContextData/ContextData.lvclass"/>
 		</Item>
 		<Item Name="States" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="State.lvclass" Type="LVClass" URL="../State/State.lvclass"/>
 			<Item Name="Initialize.lvclass" Type="LVClass" URL="../Initialize/Initialize.lvclass"/>
-			<Item Name="Run.lvclass" Type="LVClass" URL="../Run/Run.lvclass"/>
+			<Item Name="Wait Event.lvclass" Type="LVClass" URL="../Wait Event/Wait Event.lvclass"/>
+			<Item Name="User State 1.lvclass" Type="LVClass" URL="../Run/User State 1.lvclass"/>
+			<Item Name="User State 2.lvclass" Type="LVClass" URL="../User State 2/User State 2.lvclass"/>
 			<Item Name="Stop.lvclass" Type="LVClass" URL="../Stop/Stop.lvclass"/>
 		</Item>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
+				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
+			</Item>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
