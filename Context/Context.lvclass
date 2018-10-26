@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="18008000">
+	<Property Name="NI.Lib.Description" Type="Str">Context class executes different actions, depending on its internal state.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)?!!!*Q(C=\&gt;3\&lt;1*"&amp;)8B9]O"5TKQ;/(':,2!#\=&amp;5I?U=&amp;KA"6KY,&gt;!#,;T`(3Y)7:9*&lt;-M/0-PQ/00[G"WN.-KT^+4J8FF^7L[B@83:X]:LGLK?PU`HBGZ;88L&gt;:'/"\H3:Z&gt;TBWH\JO`JI`,PVT_/HG`9P`L]\2@`FP`RO?&lt;V\3(`]T$ZI@B"2CWJK5E0T5F/2&amp;XG2&amp;XG2&amp;\H*47ZSEZP=Z%G?Z%G?Z%G?Z%%?Z%%?Z%%?Z/-C&amp;\H)21[J7,R9K*CUG+$I$%8&amp;7_%J0)7H]0"4B;@Q&amp;*\#5XDIIM*4?!J0Y3E]$&amp;0B+4S&amp;J`!5(K9;EBI8/:\#Q`1S(O-R(O-R(J;5]2C!7=R-&lt;#;")&gt;.IPBC0]2A08W5]RG-]RG-].-NYD-&gt;YD-&gt;Y'$*WR5-T8_2YG%;**`%EHM34?*B;C3@R**\%EXB94IEH]33):-&amp;E=AB+"C5&gt;EB_**`(QI=34?"*0YEE].)U\F'.H:MV]E?-*0)%H]!3?Q--5#DS"*`!%HM$$N!I]A3@Q"*\!QV)+0)%H]!319&amp;'76T":-$$I&amp;!3"B^=Y,4(OEI=ERC8VY65@3P6B5R]C^?&amp;1XX4VT64@*08GKT&gt;6P6HK46$`/46;D6%PIBY]&gt;^3*^S0V1.V4&gt;^1N&gt;5.&gt;5Z@5R4TUGTO?4C=&gt;DU=&gt;$A@N^XPN&gt;DNNNVNN.BONVWMNFUMN&amp;IPL9_#&amp;[`J!_!P0J4^B?.4NP/T2']VSQ/)!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.2</Property>

@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="18008000">
+	<Property Name="NI.Lib.Description" Type="Str">State can be injected into the Context Class to change its internal state.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*#!!!*Q(C=\&gt;8"4=.!%)8B&amp;]1"C:/J!+7&amp;;3%8#EA,UU+O13!2TJTG1!0J!/8%%7F;3!NJQ@R?RB%A2#1%AA0L4,#@P&lt;N@\*727DO2DN5@;K?@NG][0]T4ZHKJ/NC@L`XRO"_46`XX=8X[&gt;`/0=&gt;^`U,``I(``NP_8@^_"JP`WXX[X,1]OUB^@MR-.,S)KK;#=-AV4^5G?Z%G?Z%G?Z%%?Z%%?Z%%?Z%\OZ%\OZ%\OZ%:OZ%:OZ%:OZ'UD&amp;\H)21YJG4S:+"EU'3#Z')K3L]34?"*0YO&amp;1C3@R**\%EXCY2)EH]33?R*.Y[+&lt;%EXA34_**0!T6*.EW=DS*B_%6?!*0Y!E]A9=J&amp;8A#1$":-(!Q#!Q&amp;*Y/&gt;Q".Y!A_\#DS"*`!%HM$$;17?Q".Y!E`AI5O\+^%UQU;/BW(E?"S0YX%]DI?BZ8A=D_.R0)[([?2Y()_$=#:U"I=AJZ.TA80A?"Q0@_2Y()`D=4S/BV0N#8G\-Y.GW-DR'"\$9XA-D_&amp;B#"E?QW.Y$)`B96A:(M.D?!S0Y7%K'2\$9XA-C$%JU]M9T/BI8'1%BI&gt;07SX7HF)UC&lt;6.KM7L7J3KR;:;2+L&amp;I8LIKI?J?ECKG[_[K;K&lt;J&lt;I*KB_H1KMQKEF5H9=,N?.\3WWI.&lt;7C&amp;N3=GF&amp;4KBO[@P/&amp;O^V/W_V7G]V'[`6;K^6+C]6#]`F=M^F-U_F58&gt;@N8Q0H&lt;0M8QMN\;=H_7&amp;=0^Y`8X?XE[OTC=HHX.,EZOXA=T`X1`^)`]'\5E6[0STV["KIM:/=!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
